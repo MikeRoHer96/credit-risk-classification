@@ -11,7 +11,7 @@ A= The purpose of the analysis is to build and evaluate a machine learning model
 A= The data contains financial information about loans, including features like loan amount, borrower income, credit history, and other related factors. The goal was to predict whether a loan is "healthy" (low-risk) or "high-risk" based on these features, helping lenders identify potential risks before approving loans.
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-A= he variable we are trying to predict is the loan status or credit risk label, which has two classes:
+A= The variable we are trying to predict is the loan status or credit risk label, which has two classes:
 
 0: Healthy loan (low-risk)
 1: High-risk loan
